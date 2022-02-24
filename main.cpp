@@ -38,8 +38,6 @@ struct assingnment{
     vector<string> contributors_names;
 };
 
-int get
-
 
 int main() {
     int C;
